@@ -70,4 +70,4 @@
 --- -->
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={AlibekAlikhan}&theme={theme_name}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlibekAlikhan&theme={theme_name}&exclude={exclude}
