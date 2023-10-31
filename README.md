@@ -6,10 +6,6 @@
 
 Я начинающий Python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. жаждущий углубить свои знания, работая над реальными проектами и принося пользу вашей команде. Целеустремленный, стрессоустойчивый, голодный до знаний, с большим желанием развиваться и строить карьеру в IT сфере.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 - :seedling: Завершил курсы по Python(Django) разработчика в AttractorSchool!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alikhan_Alibek)
@@ -18,7 +14,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8%D1%85%D0%B0%D0%BD-%D0%B0%D0%BB%D0%B8%D0%B1%D0%B5%D0%BA-1a2669274/)" target="_blank">
+    <a href="[[https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8%D1%85%D0%B0%D0%BD-%D0%B0%D0%BB%D0%B8%D0%B1%D0%B5%D0%BA-1a2669274/)](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8%D1%85%D0%B0%D0%BD-%D0%B0%D0%BB%D0%B8%D0%B1%D0%B5%D0%BA-1a2669274/)" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
   </div>
