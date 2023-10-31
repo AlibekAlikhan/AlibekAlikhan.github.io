@@ -9,7 +9,7 @@
 - :seedling: Завершил курсы по Python(Django) разработчика в AttractorSchool!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alikhan_Alibek)
-* ✉️Связаться со мной можно по [тел.](mailto:al) [aliali](mailto:aliali)
+* ✉️Связаться со мной можно по [тел.](mailto:alialikhan0520@gmail.com) [alialikhan0520@gmail.com](mailto:alialikhan0520@gmail.com)
 ---
 
 ### 💻 Технологии:
